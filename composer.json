@@ -1,5 +1,5 @@
 {
-    "name": "coderprime/phpspec-boil",
+    "name": "coderprime/fire-phpspec",
     "description": "Minimal PhpSpec project setup.",
     "keywords": ["boilerplate", "phpspec"],
     "license": "MIT",
